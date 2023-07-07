@@ -6,10 +6,10 @@ inflect
 progressbar
 einops==0.4.1
 unidecode
-scipy
+scipy==1.10.1
 librosa==0.9.1
 ffmpeg
-numpy
+numpy==1.21.0
 numba
 torchaudio
 threadpoolctl
